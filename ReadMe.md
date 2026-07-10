@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.Tech CSE student at Punjab Technical University | 🌐 Frontend Web Developer | 🚀 Learning Full-Stack Web Development | Passionate about building responsive websites and growing into a full-stack developer
+Aspiring AI Research Engineer | Machine Learning • Deep Learning • Generative AI • LLMs | Building AI projects with Python | Always Learning 🚀
 
 
 ## 🌐 Socials:
